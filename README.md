@@ -1,6 +1,6 @@
 # 🧮 Calculadora Simples
 
-Este é um projeto de calculadora desenvolvida com **HTML**, **CSS** e **JavaScript**, como parte dos estudos de front-end e práticas.
+Calculadora Simples Este é um projeto de calculadora desenvolvida com HTML, CSS e JavaScript, como parte dos meus estudos de front-end e práticas em JavaScript.
 
 ![Prévia da calculadora](assets/calculator.png)
 

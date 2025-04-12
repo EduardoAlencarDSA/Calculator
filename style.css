@@ -33,6 +33,11 @@
     cursor: pointer;
     margin: 10px;
 }
+.calculator h1 {
+    color: #fff;
+    text-align: center;
+    
+}
 
 form .display {
     display: flex;
